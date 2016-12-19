@@ -1,1 +1,5 @@
+[web-servers]
+node[0:4]
 
+[db-servers]
+node[5:8]
